@@ -8,4 +8,4 @@ image: img/kosmonavt1.jpg
 
 <img src="../../../img/kosmonavt1.jpg" width="100%">
 
-Echoes from Jupiter voulait de belles affiches alors j'en ai fait.
+[Echoes from Jupiter](http://echoesfromjupiter.com) voulait de belles affiches alors j'en ai fait.
