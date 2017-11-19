@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="header-bar">
+  <h1>jsc.fyi</h1>
+  <h2></h2>
+  <br/>
+  <hr>
+  <br/>
+</div>
+
+
+<ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p><a href="{{ post.url | prepend: site.baseurl }}">{{ post.description }}</p>
+        <div class="img_row">
+			<img class="col three" src="{{ post.image | prepend: site.baseurl }}" /></a>
+		</div>
+        <br/>
+        <hr/>
+      </li>
+    {% endfor %}
+</ul>
