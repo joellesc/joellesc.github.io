@@ -9,3 +9,4 @@ permalink: /bio/
 <br/>
 Joëlle Steben-Chabot est une artiste de Québec. Sa démarche artistique est un secret.
 
+On peut la rejoindre à [joelle@jsc.fyi](mailto:joelle@jsc.fyi)
